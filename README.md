@@ -107,7 +107,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 👤 Author
 
-* **Anurag Singh Panwar**
-    * GitHub: [@1anuragsingh](https://github.com/1anuragsingh)no readme
