@@ -14,7 +14,7 @@ import { GraduationCap, Users, BookOpen, Eye, EyeOff } from "lucide-react"
 import Link from "next/link"
 import { useAuth } from "@/components/AuthProvider"
 import { useRouter } from "next/navigation"
-
+//edit this page
 export default function LoginPage() {
   const [email, setEmail] = useState("")
   const [password, setPassword] = useState("")
