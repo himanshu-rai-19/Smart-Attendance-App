@@ -69,7 +69,7 @@ What makes this application unique is its **animated, multi-chunk QR code system
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/1anuragsingh/smart-attendance-app.git](https://github.com/1anuragsingh/smart-attendance-app.git)
+    git clone <url>
     cd smart-attendance-app
     ```
 
